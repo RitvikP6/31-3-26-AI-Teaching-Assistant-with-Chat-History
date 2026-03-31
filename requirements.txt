@@ -1,5 +1,2 @@
 streamlit
 groq
-io
-os
-sys
